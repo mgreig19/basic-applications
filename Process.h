@@ -16,6 +16,9 @@
 #include <map>
 #include <string>
 
+/*********************************
+Class Definition for dataProcessing
+**********************************/	
 Class dataProcessing {
 
 	private:
